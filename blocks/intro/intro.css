@@ -1,0 +1,9 @@
+.intro {
+  font-family: 'Inter';
+  max-width: 690px;
+  min-height: 429px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  margin: 0 442px 0 148px;
+}
