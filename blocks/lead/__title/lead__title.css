@@ -6,5 +6,5 @@
   font-size: 96px;
   line-height: 100px;
   text-align: center;
-  margin: 56px calc(280px - 148px) 32px;
+  margin: 56px auto 32px;
 }
