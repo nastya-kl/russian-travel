@@ -8,3 +8,9 @@
   line-height: 76px;
   text-align: center;
 }
+
+@media screen and (max-width: 1024px) {
+  .cover__title {
+    padding-top: 19.043%;
+  }
+}

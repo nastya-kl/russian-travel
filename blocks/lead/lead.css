@@ -5,3 +5,9 @@
   max-width: 984px;
   margin: 0 148px 0;
 }
+
+@media screen and (max-width: 1024px) {
+  .lead {
+    margin: 0 48px;
+  }
+}

@@ -8,3 +8,9 @@
   text-align: center;
   margin: 56px auto 32px;
 }
+
+@media screen and (max-width: 1024px) {
+  .lead__title {
+    margin-top: 48px;
+  }
+}

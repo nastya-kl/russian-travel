@@ -1,5 +1,5 @@
 .cover__link {
-  max-width: 1184px;
+  width: 100%;
   text-decoration: none;
   background-color: rgba(42, 44, 47, .3);
   color: #fff;
@@ -9,3 +9,5 @@
 .cover__link:hover {
   background-color: rgba(42, 44, 47, .8);
 }
+
+

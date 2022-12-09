@@ -7,3 +7,9 @@
   justify-content: start;
   margin: 0 calc(100% - 690px - 148px) 0 148px;
 }
+
+@media screen and (max-width: 1024px) {
+  .intro {
+    margin-left: 48px;
+  }
+}
