@@ -1,0 +1,6 @@
+.footer__container {
+  margin: 92px 0 0;
+  padding-bottom: 24px;
+  display: flex;
+  justify-content: space-between;
+}
