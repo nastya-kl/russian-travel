@@ -8,3 +8,10 @@
   line-height: 28px;
   gap: 18px;
 }
+
+@media screen and (max-width: 320px) {
+  .language-change {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}

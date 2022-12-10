@@ -14,3 +14,26 @@
     padding-bottom: 19.043%;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .cover__subtitle {
+    padding-bottom: 15.2%;
+  }
+}
+
+@media screen and (max-width: 380px) {
+  .cover__subtitle {
+    font-size: 14px;
+    line-height: 14px;
+    max-width: 320px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover__subtitle {
+    font-size: 14px;
+    line-height: 16px;
+    max-width: 288px;
+    padding-bottom: 10.6%;
+  }
+}
