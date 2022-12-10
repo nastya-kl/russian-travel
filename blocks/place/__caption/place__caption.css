@@ -1,3 +1,18 @@
 .place__caption {
   max-width: 484px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 25px;
+}
+
+@media screen and (max-width: 630px) {
+  .place__caption {
+  margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place__caption {
+  margin: 0 16px;
+  }
 }

@@ -11,3 +11,20 @@
     max-width: 928px;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .places {
+    max-width: 720px;
+    margin-bottom: 90px;
+    row-gap: 73px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .places {
+    max-width: 320px;
+    margin-bottom: 66px;
+    row-gap: 50px;
+  }
+}
+
