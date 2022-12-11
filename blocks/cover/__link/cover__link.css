@@ -6,5 +6,8 @@
   display: block;
 }
 
+.cover__link:hover {
+  background-color: rgba(42, 44, 47, .8);;
+}
 
 
